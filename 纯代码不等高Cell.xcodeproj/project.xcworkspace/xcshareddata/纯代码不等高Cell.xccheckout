@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4E2F82CB-A1BD-44A2-83DF-054A7890265F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>纯代码不等高Cell</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F862C6E7257CD8B1FA6478AA11A921ACFA2C3113</key>
+		<string>https://github.com/mcmengchen/MitchellCellDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>纯代码不等高Cell.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F862C6E7257CD8B1FA6478AA11A921ACFA2C3113</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mcmengchen/MitchellCellDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F862C6E7257CD8B1FA6478AA11A921ACFA2C3113</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F862C6E7257CD8B1FA6478AA11A921ACFA2C3113</string>
+			<key>IDESourceControlWCCName</key>
+			<string>%E7%BA%AF%E4%BB%A3%E7%A0%81%E4%B8%8D%E7%AD%89%E9%AB%98Cell</string>
+		</dict>
+	</array>
+</dict>
+</plist>
